@@ -8,3 +8,9 @@ Week 01
 Week 02
  * 算閏年.cpp
  * 秒數換算.cpp
+
+Week 03
+ *BMI計算機.cpp
+ *和
+ *秒數換算
+ *算閏年
