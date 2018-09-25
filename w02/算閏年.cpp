@@ -2,10 +2,10 @@
 
 int main(){
 	int year;
-	printf("è¼¸å…¥å¹´ä»½: ");
+	printf("¿é¤J¦~¥÷: ");
 	scanf("%d",&year); 
 	if((year%4==0&&!(year%100==0))||year%400==0)
-	  printf("ä½ è¼¸å…¥çš„å¹´ä»½%dæ˜¯é–å¹´",year);
+	  printf("§A¿é¤Jªº¦~¥÷%d¬O¶|¦~",year);
 	else 
-	printf("ä½ è¼¸å…¥çš„å¹´ä»½%dä¸æ˜¯é–å¹´",year);
+	printf("§A¿é¤Jªº¦~¥÷%d¤£¬O¶|¦~",year);
 }
