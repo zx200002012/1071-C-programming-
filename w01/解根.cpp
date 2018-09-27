@@ -1,12 +1,12 @@
 #include<stdio.h>
 #include<math.h>
 int main(){
-    int A,B,C,i,Z,D,W; double X1,X2;
+    int A,B,C,i,Z,D,W; float X1,X2;
     W=3;
     while(W>=0){
-    printf("¿é¤JA B C:");
+    printf("è¼¸å…¥A B C:");
     scanf("%d %d %d",&A,&B,&C);
-    printf("¸Ñ AX^2+BX+C=0 ¨â®Ú¬°:\n");
+    printf("è§£ AX^2+BX+C=0 å…©æ ¹ç‚º:\n");
     Z=B*B-4*A*C;
     D=2*A;
     for (i = 1; i <= 1000;i=i+1);
@@ -18,14 +18,14 @@ int main(){
     }  
     else if(B*B-4*A*C==0){
         X1=(-B+sqrt(B*B-4*A*C))/(2*A);
-        printf("­«®Ú X=%.1f\n",X1);
+        printf("é‡æ ¹ X=%.1f\n",X1);
     }
     else if(B*B-4*A*C<0){
-        printf("µL¸Ñ\n");
+        printf("ç„¡è§£\n");
     }
     else {
-        printf("X1=(-%d+®Ú¸¹%d)/%d\n",B,Z,D);
-        printf("X2=(-%d-®Ú¸¹%d)/%d\n",B,Z,D);
+        printf("X1=(-%d+æ ¹è™Ÿ%d)/%d\n",B,Z,D);
+        printf("X2=(-%d-æ ¹è™Ÿ%d)/%d\n",B,Z,D);
     }
     }
 }
