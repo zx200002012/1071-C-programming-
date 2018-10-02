@@ -128,10 +128,79 @@ void drawTriang(int height,int type,int filled)
         break;
     }
 }
+
+void drawTri(int height,int type,int filled){
+	switch (type){
+    case 1:
+        if(filled){
+            for(int l=1;l<=height;l++){
+			prchar(' ',height-l);
+			prchar('*',2*l-1);
+			printf("\n");
+            }
+		}
+        else {
+        	for(int i=1;i<=height;i++){
+        		if(i==1){
+        			prchar(' ',height-i);
+					prchar('*',1);
+					printf("\n");
+        		}
+        		if(i==height){
+        			prchar('*',2*height-1);
+        			printf("\n");
+				}
+				if(i!=1&&i!=height){
+					prchar(' ',height-i);
+					printf("*");
+					prchar(' ',2*i-3);
+					printf("*\n");
+					
+				}
+				
+			}
+        }
+	break;
+	    case 2:
+        if(filled){
+            for(int l=height;l>=1;l--){
+			prchar(' ',height-l);
+			prchar('*',2*l-1);
+			printf("\n");
+            }
+		}
+        else {
+        	for(int i=height;i>=1;i--){
+        		if(i==1){
+        			prchar(' ',height-i);
+					prchar('*',1);
+					printf("\n");
+        		}
+        		if(i==height){
+        			prchar('*',2*height-1);
+        			printf("\n");
+				}
+				if(i!=1&&i!=height){
+					prchar(' ',height-i);
+					printf("*");
+					prchar(' ',2*i-3);
+					printf("*\n");
+					
+				}
+				
+			}
+        }
+	break;
+    }
+            
+            
+        }
+
 int main()
 {
 
     int choice,width,height,type,filled;
+    
 
     while(1)
     {
@@ -156,7 +225,11 @@ int main()
             scanf("%d %d %d",&height,&type,&filled);
             drawTriang(height,type,filled);
             break;
-        case 3
+        case 3:
+            printf("Enter height type filled: ");
+            scanf("%d %d %d",&height,&type,&filled);
+            drawTri(height,type,filled);
+            break;
         }
 
     }
