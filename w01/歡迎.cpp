@@ -3,6 +3,6 @@
 int main(){
 	
 	printf("welcome to c programming\n");
-	printf("My nane:¶À¬f¸Û\n");
+	printf("My nane:é»ƒæŸèª \n");
 	return 0;
 }
