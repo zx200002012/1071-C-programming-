@@ -27,22 +27,11 @@
 <li>menu4.cpp</li>
 <li>menu5.cpp</li>
 </ul>
-<h2 id="week-06">Week 06</h2>
+<h2 id="week-06">Week06</h2>
 <ul>
-<li> 算閏年.cpp
 
-## Week 04
- * menu2.cpp
- * menu3.cpp
 
-## Week 05 
- * menu4.cpp
- * menu5.cpp
-
-## Week 06
- * daypass.cpp</li>
- * sorting an array.cpp</li>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQ4MTgwNDFdfQ==
+eyJoaXN0b3J5IjpbLTU2MDQ0NDA2OSwtMTAzNDgxODA0MV19
 -->
