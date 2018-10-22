@@ -19,13 +19,13 @@
 </ul>
 <h2 id="week-04">Week 04</h2>
 <ul>
-<li>menu2.cpp</li>
-<li>menu3.cpp</li>
+<li>[menu2.cpp](https://github.com/zx200002012/1071-C-programming-/blob/master/w04/menu%202.cpp)</li>
+<li>[menu.cpp](https://github.com/zx200002012/1071-C-programming-/blob/master/w04/menu.cpp)</li>
 </ul>
 <h2 id="week-05">Week 05</h2>
 <ul>
-<li>menu4.cpp</li>
-<li>menu5.cpp</li>
+<li>[menu4.cpp](https://github.com/zx200002012/1071-C-programming-/blob/master/w05/menu%204.cpp)</li>
+<li>menu3.cpp</li>
 </ul>
 <h2 id="week-06">Week06</h2>
 <ul>
@@ -35,6 +35,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4Njk0NzM2LC0xMjA3MTI4NjYwLC0xMj
-A3MTI4NjYwLC0yMDQwNDMyNDA4LC0xMDM0ODE4MDQxXX0=
+eyJoaXN0b3J5IjpbMTg0MjU0MzQxMSwtMTIwNzEyODY2MCwtMT
+IwNzEyODY2MCwtMjA0MDQzMjQwOCwtMTAzNDgxODA0MV19
 -->
