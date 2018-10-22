@@ -8,14 +8,14 @@
 <h2 id="week-02">Week 02</h2>
 <ul>
 <li>[算閏年.cpp](https://github.com/zx200002012/1071-C-programming-/blob/master/w02/%E7%AE%97%E9%96%8F%E5%B9%B4.cpp)</li>
-<li>秒數換算.cpp</li>
+<li>[秒數換算.cpp](https://github.com/zx200002012/1071-C-programming-/blob/master/w02/%E7%A7%92%E6%95%B8%E6%8F%9B%E7%AE%97.cpp)</li>
 </ul>
 <h2 id="week-03">Week 03</h2>
 <ul>
-<li>BMI計算機.cpp</li>
-<li>和.cpp</li>
-<li>秒數換算.cpp</li>
-<li>算閏年.cpp</li>
+<li>[BMI計算機.cpp](https://github.com/zx200002012/1071-C-programming-/blob/master/w03/BMI%E8%A8%88%E7%AE%97%E6%A9%9F.cpp)</li>
+<li>[和.cpp](https://github.com/zx200002012/1071-C-programming-/blob/master/w03/%E5%92%8C.cpp)</li>
+<li>[秒數換算.cpp](https://github.com/zx200002012/1071-C-programming-/blob/master/w03/%E7%A7%92%E6%95%B8%E6%8F%9B%E7%AE%97.cpp)</li>
+<li>[算閏年.cpp](https://github.com/zx200002012/1071-C-programming-/blob/master/w03/%E7%AE%97%E9%96%8F%E5%B9%B4.cpp)</li>
 </ul>
 <h2 id="week-04">Week 04</h2>
 <ul>
@@ -35,6 +35,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjY1NDg3MywtMTIwNzEyODY2MCwtMT
-IwNzEyODY2MCwtMjA0MDQzMjQwOCwtMTAzNDgxODA0MV19
+eyJoaXN0b3J5IjpbMzQ4Njk0NzM2LC0xMjA3MTI4NjYwLC0xMj
+A3MTI4NjYwLC0yMDQwNDMyNDA4LC0xMDM0ODE4MDQxXX0=
 -->
