@@ -25,16 +25,17 @@
 <h2 id="week-05">Week 05</h2>
 <ul>
 <li>[menu4.cpp](https://github.com/zx200002012/1071-C-programming-/blob/master/w05/menu%204.cpp)</li>
-<li>menu3.cpp</li>
+<li>[menu3.cpp](https://github.com/zx200002012/1071-C-programming-/blob/master/w05/menu3.cpp)</li>
 </ul>
 <h2 id="week-06">Week06</h2>
 <ul>
-<li>daypass.cpp</li>
-<li>sorting an array.cpp</li>
+<li>[daypass.cpp](https://github.com/zx200002012/1071-C-programming-/blob/master/w06/daypass.cpp)</li>
+<li>[sorting an array.cpp](https://github.com/zx200002012/1071-C-programming-/blob/master/w06/sorting%20an%20array.cpp)</li>
 </ul>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjU0MzQxMSwtMTIwNzEyODY2MCwtMT
-IwNzEyODY2MCwtMjA0MDQzMjQwOCwtMTAzNDgxODA0MV19
+eyJoaXN0b3J5IjpbLTEwNjgyMDIzNjEsLTEyMDcxMjg2NjAsLT
+EyMDcxMjg2NjAsLTIwNDA0MzI0MDgsLTEwMzQ4MTgwNDFdfQ==
+
 -->
