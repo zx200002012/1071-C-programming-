@@ -2,7 +2,7 @@
 
 int main (){
 	int sec,hh,mm,ss;
-	printf(": ");
+	printf("Enter sec: ");
 	scanf("%d",&sec);
 	hh=sec/3600;
 	mm=sec%3600/60;
