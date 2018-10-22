@@ -29,9 +29,12 @@
 </ul>
 <h2 id="week-06">Week06</h2>
 <ul>
-
+<li>daypass.cpp</li>
+<li>sorting an array.cpp</li>
+</ul>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDQ0NDA2OSwtMTAzNDgxODA0MV19
+eyJoaXN0b3J5IjpbLTIwNDA0MzI0MDgsLTEwMzQ4MTgwNDFdfQ
+==
 -->
