@@ -1,7 +1,7 @@
 <h1 id="c-programming-">1071-C-programming-</h1>
 <h2 id="week-01">Week 01</h2>
 <ul>
-<li>溫度換算.cpp</li>
+<li>[溫度換算.cpp](https://github.com/zx200002012/1071-C-programming-/blob/master/w01/%E6%BA%AB%E5%BA%A6%E6%8F%9B%E7%AE%97.cpp)</li>
 <li>解根.cpp</li>
 <li>歡迎.cpp</li>
 </ul>
@@ -35,6 +35,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA0MzI0MDgsLTEwMzQ4MTgwNDFdfQ
-==
+eyJoaXN0b3J5IjpbLTEyMDcxMjg2NjAsLTIwNDA0MzI0MDgsLT
+EwMzQ4MTgwNDFdfQ==
 -->
