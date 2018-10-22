@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="c-programming-">1071-C-programming-</h1>
 <h2 id="week-01">Week 01</h2>
 <ul>
@@ -46,10 +41,8 @@
 
 ## Week 06
  * daypass.cpp</li>
-<li>
  * sorting an array.cpp</li>
-</ul>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2MTcyNTYwXX0=
+eyJoaXN0b3J5IjpbLTEwMzQ4MTgwNDFdfQ==
 -->
